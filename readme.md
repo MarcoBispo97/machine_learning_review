@@ -25,3 +25,10 @@ I will use this reference to review key ideas, reproduce examples, and explore t
 ## Repository Purpose
 
 This is a personal learning and consolidation space. The focus is on revisiting core theory through practical implementation, comparing approaches, and documenting insights while exploring the book's data and exercises.
+
+## NCM Ranking Module (Practical Project)
+
+The repository now also includes a practical NCM text-ranking project under `ncm/`, with:
+- a complete ranking strategy diagram documented in `ncm/README.md`,
+- an OOP ranking engine with tests and quality gates,
+- a supervised refinement pipeline in `ncm/human_tuning/` for gradient-descent calibration using real human-validated labels from a 3-column Excel file.
